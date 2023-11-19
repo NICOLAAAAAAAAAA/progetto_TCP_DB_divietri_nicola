@@ -1,7 +1,7 @@
 import socket
 import mysql.connector
 
-PASSWORD = "tepsit"
+PASSWORD = "cogoleto"
 
 connes = mysql.connector.connect(
     host="localhost",
